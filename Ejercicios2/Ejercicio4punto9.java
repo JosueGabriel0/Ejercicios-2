@@ -23,7 +23,7 @@ public class Ejercicio4punto9 {
     i++;
 
    
-    System.out.println("El interes de cada año es de: "+porcent+"$");
+    System.out.println("El interes anual es de: "+porcent+"$");
     System.out.println("El total de la inversion final es de: "+resultfinal+"$");
 
   
